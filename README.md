@@ -8,7 +8,7 @@ For the district, the average math score was brought down 0.1 points from 79.0 t
 
 ## How was the school summary affected?
       
-In the school summary, the overall math and reading scores were not signigicantly affected, though the passing percentages were greatly affected.  The students passing math dropped from 93.3% to 66.9%.  Additionally, the students passing reading dropped from 97.3% to 69.7%.  And the overall passing rated dropped from 90.1% to 65.1%.
+In the school summary, the overall math and reading scores were not signigicantly affected, though the passing percentages were greatly affected.  The students passing math dropped from 93% to 67%.  Additionally, the students passing reading dropped from 97% to 70%.  And the overall passing rated dropped from 91% to 65%.
       
 ## How did replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
